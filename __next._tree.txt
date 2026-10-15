@@ -1,0 +1,3 @@
+:HL["/clone-muli/_next/static/chunks/1mfqlf8nroh0b.css","style"]
+:HL["https://wm.cdn.cn86.cn/mulimuwaiz/2026/06/00ef51e542jkfe58.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"t_nBIDwnHsXXamgxs5-jm"}
